@@ -4,7 +4,7 @@ variable "sg_name" {
 }
 variable "sg_description" {
     type = string
-    default = ""
+    
   
 }
 variable "vpc_id" {
